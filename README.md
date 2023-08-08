@@ -1,6 +1,6 @@
 # p2-js-game
 
-Certainly! Here's a simple README file for your JavaScript Game Project:
+
 
 Drive Safe - JavaScript Game
 
