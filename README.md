@@ -21,7 +21,9 @@ CSS,
 JAVASCRIPT.
 
 How to Run . 
+
 Clone repository : 
+
 git clone <repository>
 
 Open index.html .
