@@ -15,7 +15,7 @@ Avoid crashing into the incoming cars to score points.
 The game ends when a collision occurs.
 Click "Click To Start Again" to restart the game after a game over.
 
-TEcHNOLOGIES USED:
+TECHNOLOGIES USED:
 HTML,
 CSS,
 JAVASCRIPT.
